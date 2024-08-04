@@ -1,0 +1,5 @@
+setwd("~/tm_study")
+tmenv <- new.env()
+ksmb_code <- read.csv("~/ksmb_code.csv", sep="")
+print(ksmb_code)
+gen_vsdfm(t(ksmb_code))
