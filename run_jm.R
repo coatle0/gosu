@@ -9,7 +9,7 @@ library(tidyquant)
 bot=Bot(token="5824250303:AAF30nE1zYlP28DzS-Gd69yAegN-LgHU_ag")
 chat_id <- 1278251780
 
-code<-code_get(fresh = TRUE)
+code<-code_get()
 bb_win_szl <- 20
 bb_win_szs <- 8
 
