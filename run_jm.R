@@ -1,5 +1,5 @@
 library(googlesheets4)
-library(tqk)
+library(mypkg)
 library(lubridate)
 library(quantmod)
 library(PerformanceAnalytics)
