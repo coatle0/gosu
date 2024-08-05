@@ -33,7 +33,7 @@ api_id = '26890695'
 api_hash = '37fabab3680ade31f959c9c7f7241d71'
 bot_id = 5824250303
 awake_id = 1066938528
-my_bot_ch = 'https://t.me/coatle_bot'
+my_bot_ch = 'https://t.me/coatle_gosu_bot'
 
 global aim_jm_lst
 
