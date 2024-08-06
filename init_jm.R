@@ -12,7 +12,7 @@ setwd("~/tm_study")
 #shell('get_tm.xlsm',wait = FALSE)
 tmenv <- new.env()
 
-code<-code_get(fresh = TRUE)
+code<-code_get()
 
 
 #tm_stamp <- read.csv("tm_stamp_fm.csv")

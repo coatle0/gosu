@@ -5,7 +5,7 @@ chat_id <- 1278251780
 setwd("~/tm_study")
 tmenv <- new.env()
 
-code<-code_get(fresh = TRUE)
+code<-code_get()
 
 
 tm_stamp <- read.csv("tm_stamp_fm.csv")

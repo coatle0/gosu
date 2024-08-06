@@ -5,7 +5,7 @@ chat_id <- 1278251780
 setwd("~/tm_study")
 tmenv <- new.env()
 
-code<-code_get(fresh = TRUE)
+code<-code_get()
 
 #get my pf list
 pf_tbl <- read_asgs_sheet('portf_rt')

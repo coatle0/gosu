@@ -1,6 +1,6 @@
 setwd('~')
 ktickerData <- new.env()
-code<-code_get(fresh = TRUE)
+code<-code_get()
 
 bb_win_szl <- 20
 bb_win_szs <- 8

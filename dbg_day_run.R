@@ -12,7 +12,7 @@ setwd("~/tm_study")
 #print(getwd())
 dbgenv <- new.env()
 tmenv <- new.env()
-code<-code_get(fresh = TRUE)
+code<-code_get()
 #shell('get_tm.xlsm',wait = FALSE)
 
 args=commandArgs(trailingOnly=TRUE)
